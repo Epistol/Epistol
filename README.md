@@ -9,5 +9,7 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I speak 4 languages !
 
-[![Epistol's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/_epistol_)
-    
+<a href="https://dev.to/_epistol_">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Epistol's DEV Profile" height="30" width="30">
+</a>
+        
